@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Hi, I'm Shannon Wilkinson"
-datePublished: '2016-03-30T17:51:44.061Z'
-dateModified: '2016-03-30T17:50:17.496Z'
+description: "Hi, I'm Shannon Wilkinson, a life coach, change artist and summit seeker. As a coach, I use mind-bending tools like Neuro-Linguistic Programming and Hypnosis to help you change your mind, change your behaviors, and ultimately, change the world. My personal credo? Less angst. More action. Less crisis. More change.\_"
+datePublished: '2016-03-30T17:54:23.214Z'
+dateModified: '2016-03-30T17:53:41.774Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-hi-im-shannon-wilkinson.md
