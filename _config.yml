@@ -1,7 +1,12 @@
-name: shannonwilkinson
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,27 +19,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+purpose: []
+color:
+  saturation: 0.2598566
+  brandStrength: 0
+  rhythmicContrast: 0.5250896
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  lightness: 1
+typography_spectrum: 1
+layout_spectrum: 1
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#81b6f3'
-    - '#b2e5fc'
-    - '#402a1b'
-    - '#d43344'
-    - '#ff8b81'
-  brandStrength: 0.75
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5250896
-purpose: []
+  domain: null
+name: shannonwilkinson
