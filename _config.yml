@@ -1,0 +1,28 @@
+name: shannonwilkinson
+favicon: null
+layout_spectrum: 0.1907025824766606
+typography_spectrum: 0.29921852122060955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8014619769528508
+  lightness: 0.2733589594718069
+  saturation: 0.6479236362501979
+  rhythmicContrast: 0.049380351323634386
+purpose: []
